@@ -1,10 +1,10 @@
 # Smart Study Material Organizer
 
-A centralized digital library application designed for first-year college students to organize, categorize, and access their study materials efficiently. This project addresses the common challenge of managing scattered lecture notes, previous year question papers, textbooks, and other academic resources across multiple platforms.
+A centralized digital library application designed for college students to organize, categorize, and access their study materials efficiently. This project addresses the common challenge of managing scattered lecture notes, previous year question papers, textbooks, and other academic resources across multiple platforms.
 
 ## Problem Statement
 
-First-year college students often struggle with organizing their study materials. Resources are scattered across different devices, cloud services, and physical locations, making it difficult to locate specific materials during exam preparation or revision. This fragmentation leads to wasted time searching for materials and creates an inefficient learning workflow.
+College students often struggle with organizing their study materials. Resources are scattered across different devices, cloud services, and physical locations, making it difficult to locate specific materials during exam preparation or revision. This fragmentation leads to wasted time searching for materials and creates an inefficient learning workflow.
 
 The Smart Study Material Organizer solves this problem by providing a unified platform where students can:
 
@@ -298,10 +298,11 @@ For bug reports, feature requests, or general feedback, please open an issue on 
 
 ## Acknowledgments
 
-This project was built as a capstone assignment for a first-year college course. Special thanks to the course instructors for guidance and to the open-source community for providing excellent tools and libraries like React, Tailwind CSS, and shadcn/ui.
+This project was built as a capstone assignment for a college course in JAVA. Special thanks to the course instructor Dr. Nilesh Kunhare for guidance and to the open-source community for providing excellent tools and libraries like React, Tailwind CSS, and shadcn/ui.
 
 ---
 
 **Last Updated:** March 31, 2026  
 **Version:** 1.0.0  
-**Author:** [Your Name]
+**Author:** Hitesh Samal
+**Registration No.:** 24BAI10233
